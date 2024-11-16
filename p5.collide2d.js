@@ -1,4 +1,4 @@
-/*
+/*desculpa, eu so quero terminar isso antes de dar o prazo, pq eu fiquei enrolando pra fazer o alura, ai agora to atrasada, nao quero repetir nisso...
 Repo: https://github.com/bmoren/p5.collide2D/
 Created by http://benmoren.com
 Some functions and code modified version from http://www.jeffreythompson.org/collision-detection
